@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88822144378",
+    "firebase_url": "https://appgojak.firebaseio.com",
+    "project_id": "appgojak",
+    "storage_bucket": "appgojak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88822144378:android:38cadbb1ba97384531cac3",
+        "android_client_info": {
+          "package_name": "com.app.gocak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88822144378-f5sn3ct83m8up8j733beuug9be9rtl9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gocak",
+            "certificate_hash": "ccd5367e0295a090b8b5b94a3154cce901c436d5"
+          }
+        },
+        {
+          "client_id": "88822144378-8b8o06p519a11gfnidj03to2bog1r4qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbTb53NtNYMSc1_l4CHFAF9cM6IicYog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88822144378-8b8o06p519a11gfnidj03to2bog1r4qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
